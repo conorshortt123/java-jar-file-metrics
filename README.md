@@ -5,7 +5,7 @@
 
 ### UML Diagram
 
-![UML](./UML.png)
+![UML](design.png)
 
 ### Rationale:
 ***
